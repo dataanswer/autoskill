@@ -1,0 +1,6 @@
+name: base_skill
+description: 基础技能模板
+content: "# 基础技能模板\n\n            这是一个基础技能模板，用于生成通用的技能插件。\n\n            核心要求：\n \
+  \           1. 必须包含execute函数，接收parameters参数\n            2. 返回格式必须是{\"success\"\
+  : bool, \"result\": any}\n            3. 使用兼容的Python 3.8+语法\n            4. 代码简洁明了，功能完整\n\
+  \            "
